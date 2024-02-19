@@ -1,16 +1,25 @@
-### Hi there 👋
+### Bienvenue sur mon profil GitHub ! 👋
 
-<!--
-**insidebtw/insidebtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Inside, passionné par le développement en JavaScript.
 
-Here are some ideas to get you started:
+- 🚀 Actuellement en train de travailler sur Snoway.
+- 🌱 J'apprends JavaScript.
+- 💬 Pour toute demande d'aide ou collaboration, n'hésitez pas à me contacter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mes Stats Github:
+
+<p align="left">
+  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=insidebtw&countColorcountColor&countColor=%23006EFF" alt="Mes vues du profil"/>
+  <img height="25" src="https://img.shields.io/github/followers/insidebtw?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Abonnés"/>
+  <img height="25" src="https://img.shields.io/github/stars/insidebtw?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</p> 
+
+![Autre Statistiques](https://github-readme-stats.vercel.app/api?username=insidebtw&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insidebtw&layout=compact)](https://github.com/insidebtw)
+
+
+### Retrouvez-moi sur Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/798973949189947459)](https://discord.com/users/798973949189947459)
