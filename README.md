@@ -1,7 +1,5 @@
 ### Bienvenue sur mon profil GitHub ! 👋
 
-Je suis Inside, passionné par le développement en JavaScript.
-
 ### Mes Stats Github:
 
 <p align="left">
