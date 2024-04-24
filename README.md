@@ -2,10 +2,6 @@
 
 Je suis Inside, passionné par le développement en JavaScript.
 
-- 🚀 Actuellement en train de travailler sur Snoway.
-- 🌱 J'apprends JavaScript.
-- 💬 Pour toute demande d'aide ou collaboration, n'hésitez pas à me contacter.
-
 ### Mes Stats Github:
 
 <p align="left">
