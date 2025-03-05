@@ -9,11 +9,3 @@
 </p> 
 
 ![Autre Statistiques](https://github-readme-stats.vercel.app/api?username=insidebtw&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insidebtw&layout=compact)](https://github.com/insidebtw)
-
-
-### Retrouvez-moi sur Discord
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/798973949189947459)](https://discord.com/users/798973949189947459)
