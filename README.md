@@ -13,16 +13,16 @@
 <hr>
 
 <div align="center">
-  <a href="https://twitter.com/sown-discord" target="_blank">
+  <a href="https://twitter.com/insidebtw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
-  <a href="https://discord.com/users/20059221512096512" target="_blank">
+  <a href="https://discord.com/users/980068051200397353" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-  <a href="https://www.twitch.tv/oni145" target="_blank">
+  <a href="https://www.twitch.tv/insidekun" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
   </a>
-  <a href="https://github.com/sownay" target="_blank">
+  <a href="https://github.com/insidou" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
 </div>
@@ -30,11 +30,11 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=sownay&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=insidou&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sownay&theme=high-contrast" alt="Inside's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=insidou&theme=high-contrast" alt="Inside's GitHub Activity Graph" />
 </div>
 
 <div align="center">
