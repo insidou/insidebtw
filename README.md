@@ -7,13 +7,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
 </div>
 
 <hr>
