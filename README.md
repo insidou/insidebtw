@@ -1,4 +1,4 @@
-<h1 align="center">Hi, it's Inside :D</h1>
+<h1 align="center">Hi, it's Inside</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
